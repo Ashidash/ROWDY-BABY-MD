@@ -1,5 +1,5 @@
 {
-               "name": "ROWDY-BABY-MD",
+               "name": "CHUGIYAN-MD",
                "version": "4.0",
                "description": "Multi device whatsapp bot by kalindu.",
                "main": "lib/client.js",
@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name rowdy-md",
                 "stop": "pm2 stop rowdy-md"
                 },
-               "author": "Kalindu Gaweshana",
+               "author": "Chugiyan",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
